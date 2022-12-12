@@ -1,30 +1,26 @@
+# Resultado do Desafio Calculadora Microbit AlphaEdTech 
 
-> Abrir essa página em [https://andressadacosta.github.io/calculadora-desafio-microbit-alphaedtech-andressa/](https://makecode.microbit.org/_eqTHFEUWr1Ph)
+- > 🌎 Página [https://makecode.microbit.org/_eqTHFEUWr1Ph](https://makecode.microbit.org/_eqTHFEUWr1Ph)
 
-## Usar como extensão
 
-Este repositório pode ser adicionado como **extensão** no MakeCode.
+<img width="900" src="https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/Gravac%CC%A7a%CC%83o-de-Tela.gif?raw=true">
 
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Novo Projeto**
-* clique em **Extensões** em baixo do menu com ícone de engrenagem
-* procure por **https://github.com/andressadacosta/calculadora-desafio-microbit-alphaedtech-andressa** e importe
+<br><br>
 
-## Editar este projeto ![Ícone de estado da compilação](https://github.com/andressadacosta/calculadora-desafio-microbit-alphaedtech-andressa/workflows/MakeCode/badge.svg)
+## Pré-visualização dos blocos e código Javascript:
 
-Para editar este repositório no MakeCode.
+![Uma visão renderizada dos blocos](https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/2.png)
+![Uma visão renderizada do código Javascript](https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/3.png)
+
+<br><br>
+
+## Editar este projeto no MakeCode:
 
 * abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * clique em **Importar** e depois clique em **Importar URL**
 * cole **https://github.com/andressadacosta/calculadora-desafio-microbit-alphaedtech-andressa** e clique em importar
 
-## Pré-visualização de blocos
 
-"Essa imagem mostra o bloco de códigos da última confirmação no "mestre"".
-Esta imagem pode demorar alguns minutos para atualizar.
-
-![Uma visão renderizada dos blocos](https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/2.png?raw=true)
-![Uma visão renderizada do código Javascript](https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/3.png?raw=true)
 #### Metadados (usados para pesquisa, renderização)
 
 * for PXT/microbit
