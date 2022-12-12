@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://andressadacosta.github.io/calculadora-desafio-microbit-alphaedtech-andressa/](https://andressadacosta.github.io/calculadora-desafio-microbit-alphaedtech-andressa/)
+> Abrir essa página em [https://andressadacosta.github.io/calculadora-desafio-microbit-alphaedtech-andressa/](https://makecode.microbit.org/_eqTHFEUWr1Ph)
 
 ## Usar como extensão
 
