@@ -23,8 +23,8 @@ Para editar este repositório no MakeCode.
 "Essa imagem mostra o bloco de códigos da última confirmação no "mestre"".
 Esta imagem pode demorar alguns minutos para atualizar.
 
-![Uma visão renderizada dos blocos](https://github.com/andressadacosta/calculadora-desafio-microbit-alphaedtech-andressa/raw/master/.github/makecode/blocks.png)
-
+![Uma visão renderizada dos blocos](https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/2.png?raw=true)
+![Uma visão renderizada do código Javascript](https://github.com/AndressaDaCosta/calculadora-desafio-microbit-alphaedtech-andressa/blob/master/3.png?raw=true)
 #### Metadados (usados para pesquisa, renderização)
 
 * for PXT/microbit
